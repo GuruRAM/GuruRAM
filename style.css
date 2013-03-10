@@ -15,13 +15,12 @@
 
 .masthead.hero-unit {
 	background-image: url('img/background.jpg');
-	color: #fff;
 	height: 200px;
 	text-align: center;
 	overflow: hidden;
 	background-position: 50% top;
 	background-repeat: no-repeat;
-	background-color: #fff;
+	background-color: #17262b;
 }
 
 .text {

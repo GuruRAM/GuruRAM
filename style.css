@@ -1,3 +1,9 @@
+.avatar {
+	height: 271px;
+	width: 182px;
+	background-image: url('img/ava.jpg');
+}
+
 .navbar-wrapper {
 	position: absolute;
 	top: 0;
